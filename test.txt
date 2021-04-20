@@ -4,3 +4,7 @@ test
 test2
 
 test3
+
+test4 - ブランチ切り分け
+
+test5 - kidelatest
